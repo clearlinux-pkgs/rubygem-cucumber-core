@@ -4,7 +4,7 @@
 #
 Name     : rubygem-cucumber-core
 Version  : 1.1.3
-Release  : 4
+Release  : 5
 URL      : https://rubygems.org/downloads/cucumber-core-1.1.3.gem
 Source0  : https://rubygems.org/downloads/cucumber-core-1.1.3.gem
 Summary  : No detailed summary available
