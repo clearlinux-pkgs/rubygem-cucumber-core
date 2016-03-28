@@ -1,4 +1,4 @@
 # File auto-generated with 'Watchfile generator'
-# 2016-02-25 23:03:08.351665
+# 2016-03-23 21:32:46.112761
 # {'~>1.1.3'}
-watchurl=https://rubygems.org/gems/cucumber-core/versions/([0-1]\.[0-1](\.[0-9]{1,2})?)
+watchurl=https://rubygems.org/gems/cucumber-core/versions/([0-1]\.[0-1](?:\.[0-9]{1,2})*)
