@@ -4,7 +4,7 @@
 #
 Name     : rubygem-cucumber-core
 Version  : 1.5.0
-Release  : 9
+Release  : 10
 URL      : https://rubygems.org/downloads/cucumber-core-1.5.0.gem
 Source0  : https://rubygems.org/downloads/cucumber-core-1.5.0.gem
 Summary  : No detailed summary available
@@ -13,6 +13,7 @@ License  : MIT
 BuildRequires : ruby
 BuildRequires : rubygem-devise
 BuildRequires : rubygem-diff-lcs
+BuildRequires : rubygem-gherkin
 BuildRequires : rubygem-kramdown
 BuildRequires : rubygem-rake
 BuildRequires : rubygem-rdoc
